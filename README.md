@@ -71,5 +71,5 @@ Internet connection required for fetching posters
 - Deployment on cloud (Streamlit Cloud / AWS)
 
 👤 Author
-Mistu Biswas
+Moushili Biswas
 Movie Recommendation System using Machine Learning
